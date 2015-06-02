@@ -4,8 +4,8 @@
 Web Service API
 ===============
 
-Odoo is mostly extended internally via modules, but much of its features and
-all of its data is also available from the outside for external analysis or
+Odoo is mostly extended internally via modules, but many of its features and
+all of its data are also available from the outside for external analysis or
 integration with various tools. Part of the :ref:`reference/orm/model` API is
 easily available over XML-RPC_ and accessible from a variety of languages.
 
